@@ -22,5 +22,6 @@ namespace ApiDockerSample1
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+				
     }
 }
